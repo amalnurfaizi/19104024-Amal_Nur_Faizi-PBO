@@ -19,7 +19,7 @@ function predikat (nilai){
         return 'E'
     }
 }
-//function2
+// function 2
 function myFunction2(arg1, arg2){
     this.Name = arg1
     this.Nilai = arg2
